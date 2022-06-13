@@ -22,7 +22,7 @@ HOW TO USE
       ex: test_object.run(initial conditions, stop value)
         - the initial conditions argument is an array of floats
         - the length is always one less than the order of the ODE 
-        - the form of the array is [y^m(0), y^(m-1)(0), ..., y(0)]
+        - the form of the array is [y^(m-1)(0), y^(m-2)(0), ..., y(0)]
         - The stop value is the x value that you want to stop at
   
   
