@@ -1,4 +1,3 @@
-from operator import eq
 import ODE;
 import numpy as np;
 import math;
