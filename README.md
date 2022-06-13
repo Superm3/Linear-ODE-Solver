@@ -3,7 +3,7 @@ Numerically solves any order linear ODE with any forcing function and function c
 
 HOW TO USE:
   -ODE must be in this form:
-    c1(x)y^(m) + c2(x)y^(m-1) + c3(x)y^(m-2) + ... + cm(x)y^(m-m) = D(x)
+    -c1(x)y^(m) + c2(x)y^(m-1) + c3(x)y^(m-2) + ... + cm(x)y^(m-m) = D(x)
     - m inidicates the order of the derivative
     - c1, c2, ..., cm are arbitrary functions of x
     - D is the forcing function, can be 0;
