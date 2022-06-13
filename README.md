@@ -27,3 +27,4 @@ HOW TO USE
   
   
   - The returned data is a 2D array containing the x and y values of the solution
+  - [[x_vals], [y_vals]]
